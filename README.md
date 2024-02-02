@@ -1,2 +1,2 @@
 # Monsters
-Monsters Synthesis Game 2021 New Year Versionn
+Monsters Synthesis Game 2021 New Year Version
